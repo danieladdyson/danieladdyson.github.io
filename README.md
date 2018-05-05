@@ -1,2 +1,2 @@
-# danieladdyson.org
+# danieladdyson.github.io
 my website
