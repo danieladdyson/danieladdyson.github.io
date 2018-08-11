@@ -1,2 +1,2 @@
 # danieladdyson.github.io
-my website
+Website test using Github + Jekyll
